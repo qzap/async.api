@@ -6,4 +6,4 @@ package:
   path: github.com/streadway/amqp
   revision: e6b33f460591b0acb2f13b04ef9cf493720ffe17
   revisionTime: '2020-07-16T22:33:59Z'
-rootPath: gitea.com/dwicahya.sulistyawan/async.api/rabbitmqUtilSrv
+rootPath: github.com/async.api/rabbitmqUtilSrv
